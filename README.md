@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Shantnu, a final year undergraduate.
+
+- 📫 How to reach me: 
+    * LinkedIn - [shantnu-kumar](https://www.linkedin.com/in/shantnu-kumar/)
+    * Twitter - [Shantnu437](https://twitter.com/Shantnu437)
+    * Personal WebSite - https://dipu989.github.io/
