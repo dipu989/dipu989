@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Shantnu, a final year undergraduate. I love developing android apps and contributing to Open Source. 
+I am Shantnu, loves tinkering with Golang and iOS apps. Exploring K8s and Docker 🚀
 
  📫 How to reach me: 
    * LinkedIn - [shantnu-kumar](https://www.linkedin.com/in/shantnu-kumar/)
