@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Shantnu 👋</h3>
 
 <p align="center">
-Senior Software Engineer with a deep focus on MDM (Mobile Device Management), backend microservices, and DevOps.<br/>
+Software Engineer with a deep focus on MDM (Mobile Device Management), backend microservices, and DevOps.<br/>
 I build things that manage devices at scale — and I'm deeply exploring the climate & carbon space 🌍
 </p>
 
@@ -14,16 +14,6 @@ I've spent most of my career in the MDM space, working across both Android and i
 More recently, I've been spending a good amount of time on backend systems — designing and building services that scale.
 
 Earlier in my journey, I contributed to [FOSSASIA](https://fossasia.org) through CodeHeat and served as a Google Code-In mentor, helping pre-university students take their first steps in open source.
-
----
-
-<h2 align="center">🚀 What I'm building</h2>
-
-### 🌿 Atmos *(side project)*
-> A personal carbon footprint tracking app born out of fascination with Climate Tech.
-
-I've been captivated by projects focusing on carbon capture and the hundreds of ways to utilise it — so I asked: *why not start at the individual level?*  
-Atmos visualises the environmental impact each of us has on the planet by tracking the aspects of our carbon footprint that can realistically be measured — eventually evolving into a personal environmental telemetry and carbon intelligence platform.
 
 ---
 
@@ -67,11 +57,6 @@ DevOps & Infrastructure
 - 🌿 Atmos — personal carbon footprint & environmental telemetry app
 - 🌱 Exploring — AI & Agentic AI, distributed systems, K8s and cloud-native architecture
 
-<h2 align="center">💬 Let's talk</h2>
-
-I'm genuinely fascinated by the intersection of technology and our planet — carbon, climate, agriculture, and everything in between. I'm also diving deep into AI and Agentic AI — how autonomous agents reason, plan, and get things done. Whether you're building in any of these spaces, researching it, or just curious — hit me up, I'm always up for a conversation. May or may not be related to any of this. 😄
-
----
 
 <h2 align="center">📫 Find me</h2>
 
