@@ -65,4 +65,5 @@ DevOps & Infrastructure
 <a href="https://x.com/Shantnu437"><img src="https://img.shields.io/badge/X-@Shantnu437-000000?style=flat&logo=x&logoColor=white"/></a>
 <a href="https://dipu989.github.io/"><img src="https://img.shields.io/badge/Website-dipu989.github.io-333?style=flat&logo=github&logoColor=white"/></a>
 <a href="https://medium.com/@me-shantnu"><img src="https://img.shields.io/badge/Medium-@me--shantnu-12100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="https://techninjas.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-techninjas-2962FF?style=flat&logo=hashnode&logoColor=white"/></a>
 </p>
